@@ -1,17 +1,9 @@
-{
-    background-color: rgb(136, 218, 210);
-    width: 10%;
-    float: left;
-;
+h1{
+   color: red;
 }
-
-#wrongAnswers {
-    background-color: rgb(233, 150, 150);
-    width: 50%;
-    float: left;
-    height: 100vh;
+.correcta{
+color: green;
 }
-
-.answer {
-    color: white;
+.incorrecta{
+color:red;
 }
