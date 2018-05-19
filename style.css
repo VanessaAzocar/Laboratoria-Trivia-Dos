@@ -1,8 +1,8 @@
-#rightAnswers {
+{
     background-color: rgb(136, 218, 210);
-    width: 50%;
+    width: 10%;
     float: left;
-    height: 100vh;
+;
 }
 
 #wrongAnswers {
